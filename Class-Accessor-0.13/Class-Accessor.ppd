@@ -1,0 +1,11 @@
+<SOFTPKG NAME="Class-Accessor" VERSION="0,13,0,0">
+	<TITLE>Class-Accessor</TITLE>
+	<ABSTRACT></ABSTRACT>
+	<AUTHOR></AUTHOR>
+	<IMPLEMENTATION>
+		<DEPENDENCY NAME="Carp-Assert" VERSION="0,06,0,0" />
+		<OS NAME="MSWin32" />
+		<ARCHITECTURE NAME="MSWin32-x86-multi-thread" />
+		<CODEBASE HREF="D:\SRC\Win95\Perl\Class-Accessor-0.13\Class-Accessor-0.13.tar.gz" />
+	</IMPLEMENTATION>
+</SOFTPKG>

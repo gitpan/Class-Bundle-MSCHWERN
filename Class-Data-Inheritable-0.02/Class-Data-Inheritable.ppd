@@ -1,0 +1,10 @@
+<SOFTPKG NAME="Class-Data-Inheritable" VERSION="0,02,0,0">
+	<TITLE>Class-Data-Inheritable</TITLE>
+	<ABSTRACT></ABSTRACT>
+	<AUTHOR></AUTHOR>
+	<IMPLEMENTATION>
+		<OS NAME="MSWin32" />
+		<ARCHITECTURE NAME="MSWin32-x86-multi-thread" />
+		<CODEBASE HREF="" />
+	</IMPLEMENTATION>
+</SOFTPKG>

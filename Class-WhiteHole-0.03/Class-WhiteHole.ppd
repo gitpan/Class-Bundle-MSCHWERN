@@ -1,0 +1,10 @@
+<SOFTPKG NAME="Class-WhiteHole" VERSION="0,03,0,0">
+	<TITLE>Class-WhiteHole</TITLE>
+	<ABSTRACT></ABSTRACT>
+	<AUTHOR></AUTHOR>
+	<IMPLEMENTATION>
+		<OS NAME="MSWin32" />
+		<ARCHITECTURE NAME="MSWin32-x86-multi-thread" />
+		<CODEBASE HREF="D:\SRC\Win95\Perl\Class-WhiteHole-0.03\Class-WhiteHole-0.03.tar.gz" />
+	</IMPLEMENTATION>
+</SOFTPKG>

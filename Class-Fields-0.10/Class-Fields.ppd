@@ -1,0 +1,13 @@
+<SOFTPKG NAME="Class-Fields" VERSION="0,10,0,0">
+	<TITLE>Class-Fields</TITLE>
+	<ABSTRACT></ABSTRACT>
+	<AUTHOR></AUTHOR>
+	<IMPLEMENTATION>
+		<DEPENDENCY NAME="Carp" VERSION="0,0,0,0" />
+		<DEPENDENCY NAME="Exporter" VERSION="0,0,0,0" />
+		<DEPENDENCY NAME="constant" VERSION="0,0,0,0" />
+		<OS NAME="MSWin32" />
+		<ARCHITECTURE NAME="MSWin32-x86-multi-thread" />
+		<CODEBASE HREF="D:\SRC\Win95\Perl\Class-Fields-0.10\Class-Fields-0.10.tar.gz" />
+	</IMPLEMENTATION>
+</SOFTPKG>
